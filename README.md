@@ -18,5 +18,3 @@
 
 <p align="center"><img align="center"  style="background-color:black;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhoriky&show_icons=true&locale=en&layout=compact" alt="ridhoriky" /></p>
 
-
-<p align="center"><img align="center" style="background-color:black;" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhoriky&" alt="ridhoriky" /></p>
