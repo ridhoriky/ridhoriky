@@ -5,7 +5,7 @@
 
 <div align="center">
  🌱 I’m currently learning **FullStack Development**
-  
+  <br/>
 👨‍💻 All of my projects are available at [ridhodev.com](ridhodev.com)
 </div>
 
