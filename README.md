@@ -4,9 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ridhoriky&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoriky" /> </p>
 
 <div align="center">
- 🌱 I’m currently learning **FullStack Development**
-  <br/>
+<p align="center">🌱 I’m currently learning **FullStack Development**</p>
+
+ 
 👨‍💻 All of my projects are available at [ridhodev.com](ridhodev.com)
+
 </div>
 
 <h3 align="center">Connect with me:</h3>
