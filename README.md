@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ridhoriky&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoriky" /> </p>
 
-<p align="center">
+<div align="center">
  🌱 I’m currently learning **FullStack Development**
   
 👨‍💻 All of my projects are available at [ridhodev.com](ridhodev.com)
-</p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
