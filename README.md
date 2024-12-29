@@ -7,7 +7,7 @@
 <p align="center">🌱 I’m currently learning **FullStack Development**</p>
 
  
-👨‍💻 All of my projects are available at [portofolio-ridho-v1.vercel.app](ridhodev)
+👨‍💻 All of my projects are available at [ridhodev](https://portofolio-ridho-v1.vercel.app)
 
 </div>
 
